@@ -1,4 +1,4 @@
-### Working with Files and Directories
+# Working with Files and Directories
 
 When it comes to handling files in Linux, things work a little differently compared to Windows. In Windows, we’re used to dragging and dropping files with Explorer, but in Linux, the terminal gives us a supercharged way to manage everything. Not only is it faster, but it’s also more efficient—you can edit files directly without even opening an editor like vim or nano!
 
@@ -6,17 +6,17 @@ With just a few commands, you can navigate your system, create files, move them 
 
 ---
 
-### Creating Files and Directories
+## Creating Files and Directories
 
 Let’s start with the basics—creating files and folders (called directories in Linux). Here’s how you do it:
 
-#### Creating an Empty File
+### Creating an Empty File
 ```bash
 touch filename.txt
 ```
 This command creates a blank file named `filename.txt` in the current directory.
 
-#### Creating a Directory
+### Creating a Directory
 ```bash
 mkdir MyFolder
 ```
