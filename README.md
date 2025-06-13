@@ -24,7 +24,7 @@ You’ll find notes organized by topic, each in its own markdown file – clean,
 
 ### 💻 The Shell
 - [Prompt Description](Prompt_Description.md)
-- [Getting Help](Getting_Help.md)
+- [Getting Help](Getting_help.md)
 - [System Information](System_Information.md)
 
 ### ⚙️ Workflow
