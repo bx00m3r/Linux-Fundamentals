@@ -55,7 +55,7 @@ You’ll find notes organized by topic, each in its own markdown file – clean,
 ### 🔐 Linux Hardening
 - [Linux Security](Linux_Security.md)
 - [Firewall Setup](Firewall_Setup.md)
-- [System Logs and Monitoring](System_Logs_and_Monitoring.md)
+- [System Logs and Monitoring](System_Logs.md)
 
 ### 🆚 Linux Distributions vs Solaris
 - [Solaris](Solaris.md)
