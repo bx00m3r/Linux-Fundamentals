@@ -18,8 +18,8 @@ You’ll find notes organized by topic, each in its own markdown file – clean,
 ## 📚 Table of Contents
 
 ### 🧭 Introduction
-- [Linux Structure](./Linux%20Structure.md)
-- [Linux Distributions](./Introduction/Linux%20Distributions.md)
+- [Linux Structure](Linux_Structure.md)
+- [Linux Distributions](Linux_Distributions.md)
 - [Introduction to Shell](./Introduction/Introduction%20to%20Shell.md)
 
 ### 💻 The Shell
