@@ -1,4 +1,4 @@
-## Task Scheduling ⏰🗓️
+# Task Scheduling ⏰🗓️
 
 Task scheduling is a critical feature in Linux that allows users and administrators to **automate tasks** at specific times or intervals — no manual intervention needed 🙌. Distributions like Ubuntu, Red Hat, and Solaris use it to handle:
 
