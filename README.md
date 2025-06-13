@@ -17,51 +17,51 @@ You’ll find notes organized by topic, each in its own markdown file – clean,
 
 ## 📚 Table of Contents
 
-### 🧭 Introduction
+### 📘 Introduction
 - [Linux Structure](Linux_Structure.md)
 - [Linux Distributions](Linux_Distributions.md)
-- [Introduction to Shell](./Introduction/Introduction%20to%20Shell.md)
+- [Introduction to Shell](Introduction_to_Shell.md)
 
 ### 💻 The Shell
-- [Prompt Description](./The%20Shell/Prompt%20Description.md)
-- [Getting Help](./The%20Shell/Getting%20Help.md)
-- [System Information](./The%20Shell/System%20Information.md)
+- [Prompt Description](Prompt_Description.md)
+- [Getting Help](Getting_Help.md)
+- [System Information](System_Information.md)
 
 ### ⚙️ Workflow
-- [Navigation](./Workflow/Navigation.md)
-- [Working with Files and Directories](./Workflow/Working%20with%20Files%20and%20Directories.md)
-- [Editing Files](./Workflow/Editing%20Files.md)
-- [Find Files and Directories](./Workflow/Find%20Files%20and%20Directories.md)
-- [File Descriptors and Redirections](./Workflow/File%20Descriptors%20and%20Redirections.md)
-- [Filter Contents](./Workflow/Filter%20Contents.md)
-- [Regular Expressions](./Workflow/Regular%20Expressions.md)
-- [Permission Management](./Workflow/Permission%20Management.md)
+- [Navigation](Linux_Navigation.md)
+- [Working with Files and Directories](Linux_Files_and_Directories.md)
+- [Editing Files](Editing_Files.md)
+- [Find Files and Directories](Find_Files_and_Directories.md)
+- [File Descriptors and Redirections](File_Descriptors_and_Redirections.md)
+- [Filter Contents](Filter_Contents.md)
+- [Regular Expressions](Regular_Expressions.md)
+- [Permission Management](Permission_Management.md)
 
 ### 🛠️ System Management
-- [User Management](./System%20Management/User%20Management.md)
-- [Package Management](./System%20Management/Package%20Management.md)
-- [Service and Process Management](./System%20Management/Service%20and%20Process%20Management.md)
-- [Task Scheduling](./System%20Management/Task%20Scheduling.md)
-- [Network Services](./System%20Management/Network%20Services.md)
-- [Working with Web Services](./System%20Management/Working%20with%20Web%20Services.md)
-- [Backup and Restore](./System%20Management/Backup%20and%20Restore.md)
-- [File System Management](./System%20Management/File%20System%20Management.md)
-- [Containerization](./System%20Management/Containerization.md)
+- [User Management](User_Management.md)
+- [Package Management](Package_Management.md)
+- [Service and Process Management](Service_and_Process_Management.md)
+- [Task Scheduling](Task_Scheduling.md)
+- [Network Services](Network_Services.md)
+- [Working with Web Services](Working_with_Web_Services.md)
+- [Backup and Restore](Backup_and_Restore.md)
+- [File System Management](File_System_Management.md)
+- [Containerization](Containerization.md)
 
 ### 🌐 Linux Networking
-- [Network Configuration](./Linux%20Networking/Network%20Configuration.md)
-- [Remote Desktop Protocols in Linux](./Linux%20Networking/Remote%20Desktop%20Protocols%20in%20Linux.md)
+- [Network Configuration](Network_Configuration.md)
+- [Remote Desktop Protocols in Linux](Remote_Desktop_Protocols_in_Linux.md)
 
-### 🔒 Linux Hardening
-- [Linux Security](./Linux%20Hardening/Linux%20Security.md)
-- [Firewall Setup](./Linux%20Hardening/Firewall%20Setup.md)
-- [System Logs and Monitoring](./System%20Logs%20and%20Monitoring.md)
+### 🔐 Linux Hardening
+- [Linux Security](Linux_Security.md)
+- [Firewall Setup](Firewall_Setup.md)
+- [System Logs and Monitoring](System_Logs_and_Monitoring.md)
 
 ### 🆚 Linux Distributions vs Solaris
-- [Solaris](./Solaris.md)
+- [Solaris](Solaris.md)
 
-### 💡 Tips & Tricks
-- [Shortcuts](./Shortcuts.md)
+### ⚡ Tips & Tricks
+- [Shortcuts](Shortcuts.md)
 
 ---
 
